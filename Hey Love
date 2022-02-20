@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hey Love </title>
+    <style>
+        body{
+            background-color: rgb(201, 63, 63);
+        }
+        .Love{
+            background-color: rgb(173, 98, 111);
+            text-align:center;
+            top: 50%;
+            left: 50%;
+            transform: translate(300px,100px);
+            width: 800px;
+            height: 400px;
+            text-decoration-line: underline;
+            text-decoration-color: rgb(233, 233, 143);
+            font-size: 50pt;
+            font-family: 'Times New Roman', Times, serif;    
+        }  
+    </style>  
+</head>
+<style>
+    body{ color: rgb(5, 5, 5);}
+</style>
+<body> 
+   <div class="Love">
+<div> <span> Hey Love, I have a question for you. Do you love me? </span></div>
+<a href="https://memegenerator.net/instance/60117047/yoda-the-good-choice-you-just-made;">
+<button style="background-color: rgb(192, 164, 127); font-style: oblique;font-size: 40pt; border-radius:5px; border: none; float: left;">If Yes :) Click Me!</button>
+<a href="https://memegenerator.net/instance/39161249/yeah-sure-yeah-sure;">
+<button style="background-color: rgb(192, 164, 127); font-style: oblique;font-size: 40pt; border-radius:5px; border: none; float: right;">If No :( Click Me!</button>
+</a> </div>
+</body>
+</html>
